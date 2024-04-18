@@ -45,3 +45,22 @@
     height: 100%;
     width: 24%;
   }
+  footer{
+    background-color: #6fff93;
+    border-radius: 6px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  footer p {
+    color: #000000b9;
+    font-size: 1.2rem;
+  }
+  footer a {
+    color: #336b8a;
+    text-decoration: none;
+    font-weight: 500;
+  }
