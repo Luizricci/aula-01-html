@@ -21,9 +21,14 @@
     border-radius: 10px;
     height: 150px;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: space-around;
     align-items: center;
+  }
+  #image-profile{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
   }
   #principal{
     border-radius: 6px;
